@@ -1,6 +1,6 @@
 # fWARbot
 A reddit bot to post fWAR stats on demand
 
-##Example post
+##Example reddit comment
 
-fWAR! Yoenis Cespedes, Bryce Harper, Joey Votto
+`fWAR! Yoenis Cespedes, Bryce Harper, Joey Votto`
